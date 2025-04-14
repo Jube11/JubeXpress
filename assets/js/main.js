@@ -124,7 +124,7 @@
     updateCountDown(countDownItem);
     setInterval(function() {
       updateCountDown(countDownItem);
-    }, 1000);
+    }, 100);
   });
 
 })();
